@@ -1,5 +1,6 @@
 # DailyTemperatureOfMajorCities
 Analyse exploratoire du jeu de données Daily "Temperature of Major Cities" et Modélisation de la température à Bordeaux par un modèle ARIMA 
+dataset : [Daily Temperature of Major Cities](https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities?select=city_temperature.csv) 
 
 ## Questions:
 
